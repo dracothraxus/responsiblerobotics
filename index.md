@@ -1,38 +1,21 @@
-## Closing the Loop on Localization
+## What does Responsible Robotics mean?: Stretching roboticists’ horizons from an academic, government and philosophical perspective
 
-Localization, mapping, visual place recognition and Simultaneous Localization And Mapping (SLAM) techniques are never the end, but rather a means to enable higher level tasks for robots and people alike. Major advances in localization capability have been made in the robotics, computer vision and machine learning fields, especially over the past two decades with the advent of mature SLAM systems and modern machine-learning driven approaches. Yet localization technology is still sparsely deployed in enduring large scale commercial applications, and despite the adage that “SLAM is solved”, for many applied roboticists it is abundantly clear that there are substantial challenges to still overcome.  
+With the imminent prospect of ubiquitous robotics in our everyday lives built off the back of transformative new changes in generative AI, as well as the ongoing debate around military robotics, autonomous vehicles and societal impact ranging from job losses to human empowerment, the time has never been more suitable for a discussion at the world’s leading robotics conference about what exactly Responsible Robotics entails. Building off a long legacy of consideration of this issue in robotics, most recently culminating in a Dagstuhl seminar on a Roadmap to Responsible Robotics, this workshop will bring together some of the leading roboticists, philosophers of moral responsibility and practical ethicists to teach, discuss and debate the key issues. A growing hunger and interest in this topic in both the robotics community and wider society suggests this will be a popular, engaging and thought provoking workshop.
 
-Involving both researchers and end-users from industry, this workshop will focus on the key reasons we are developing localization and mapping systems, and use those insights to drive a reflection on the key methods by which we are approaching localization research. We will evaluate whether there are new innovations required in techniques, how we can improve the metrics and benchmarks by which we assess performance in the research field to make them better proxies of performance in actual deployed situations. To maximize inclusivity we are providing substantial funding support to support researchers from under-represented and lower socio-economic regions to attend and participate in the workshop.
+### Contents
 
-### Provocative Questions We Hope to Make Progress on as a Community
+The workshop will bring together experts beyond robotics, in the areas of philosophy, focusing on moral and practical ethics …, and industries including …. Our main goal is to discuss, with a highly self-reflective angle, the state-of-the-art in the domain of .. A major goal is to build common ground on the concept of responsible robotics, working from philosophical conception into the practical efforts being made in contemporary robotics.... Additionally, we aim to open new avenues for future interdisciplinary collaboration among participants and expect that this will significantly advance the field of responsible robotics.
 
-- What are the specific use cases for full SLAM approaches, when is semi-supervised or collaborative SLAM 'enough', and when do we only need localization and/or visual place recognition?
-- Are the current performance metrics we use like Recall@X sufficient for enabling real-world utility? What better performance metrics could we design and support as a community?
-- How do we currently benchmark localization systems, and is our reliance in the research community on passive dataset-based testing hurting us in the long run? What could we do better, including the use of simulation and real-robot benchmark testing platforms?
-- Are our research goals as a field too focused on beating the previous state-of-the-art by a few percent? What other goals could we better pursue, like generality?
-- Viewpoint- and appearance-invariance have emerged as two of the key themes shaping much vision-based localization research... is this the right categorization?
-- Localization is a vibrant field across robotics, computer vision and machine learning fields - is this a good thing, bad thing, or somewhere in the middle?
+The format of the workshop comprises four sessions. We will start with a tutorial on “Responsible robotics 101”. Then we will follow with two sessions with a well thought mix of invited talks with time for Q&A with the audience, and fourth session with a dedicated panel of experts and a moderator. The diversity of expertise will encourage a cross-domain perspective in ... The invited talks will cover state-of-the-art challenges, developments, combined efforts and collaborations. Furthermore, the flow of the invited talks has been decided to ensure a good mix of academic, government and philosophical points of view, as well as theoretical and practical approaches.
 
-### Call for Submissions
+### Plan to solicit participation
 
-We invite you to submit high-quality extended abstracts, aligned with the theme of our workshop. Also, see [competition](#competition) and [financial support](#support-for-under-represented-researchers).
+- We have extended individual invitations to a large list of speakers with a wide range of backgrounds (age, expertise, geographical areas, career stages, gender), to promote an inclusive environment for discussion and exchange of ideas.  
+- We will advertise the workshop via global and regional mailing lists, e.g robotics-worldwide, and leveraging on the IEEE RAS TC’s mailing lists.
 
-#### Scope of Potential Research Contributions
+### Plan to encourage interaction among participants
 
-- Novel or updated evaluation metrics
-- Encoding equivariance or invariance in place representations
-- Semantics based localization
-- Natural language, localization and navigation
-- Large language models for place recognition and localization
-- Foundation models for localization
-- Neural implicit representations and models for mapping and localization
-- Long-term autonomy
-- Sequences/videos for place recognition and localization
-- VPR for SfM versus VPR for SLAM
-- Impact of VPR on the performance of SfM and SLAM
-- From place recognition and 6-DoF localization to robot navigation
-- SLAM vs Localization-only (given the map)
-- New benchmarks and datasets
+The flow of the event will encourage the participants to learn, ideate and conceptualize throughout. There will be multiple Q&A instances during the tutorial, invited talks and panel discussion, guided by moderators. Questions will be collected digitally before and during the event. An online chat will be made available to continue with offline discussions.
 
 #### Format
 
