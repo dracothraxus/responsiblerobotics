@@ -28,9 +28,7 @@ Tentative:
   <img src="assets/img/program.jpg" width="600px" />   
 </p>
 
-## Invited Speakers
-
-### Academia
+## Invited Speakers and Panelists
 
 <div class="container">
     <div class="card">
@@ -85,114 +83,8 @@ Tentative:
     </div>
 </div>
 
-### Industry
-
-<div class="container">
-    <div class="card">
-        <img src="assets/img/mike.jpeg" class="image">
-        <h2><a href="https://uk.linkedin.com/in/michaelmanganuk">Michael Mangan</a></h2>
-        <p>Research Director<br>Opteran Technologies</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/yulia.jpeg" class="image">
-        <h2><a href="http://sandamirskaya.eu/">Yulia Sandamirskaya</a></h2>
-        <p>Sr. Researcher<br>Intel</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/shubham.jpeg" class="image">
-        <h2><a href="https://www.linkedin.com/in/shubshrivastava">Shubham Shrivastava</a></h2>
-        <p>Team Lead<br>Perception, Kodiak Robotics</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/olga.jpg" class="image">
-        <h2><a href="https://www.microsoft.com/en-us/research/people/olgavysotska/">Olga Vysotska</a></h2>
-        <p>Research Scientist<br>Microsoft</p>
-    </div>
-</div>
-
-
 ## Organizers
 
-<div class="container">
-    <div class="card">
-        <img src="assets/img/luca.jpeg" class="image">
-        <h2><a href="https://lucacarlone.mit.edu/">Luca Carlone</a></h2>
-        <p>Assoc. Prof.<br>MIT</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/margarita.jpg" class="image">
-        <h2><a href="https://v4rl.com/blog/chli-margarita-dr1676387386/the-lab">Margarita Chli</a></h2>
-        <p>Assis. Prof.<br>ETHZ</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/tobias.jpg" class="image">
-        <h2><a href="https://www.tobiasfischer.info/">Tobias Fischer</a></h2>
-        <p>Lecturer<br>QUT</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/grace.jpg" class="image">
-        <h2><a href="https://profiles.stanford.edu/gracegao">Grace Gao</a></h2>
-        <p>Assis. Prof.<br>Stanford</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/sourav.jpg" class="image">
-        <h2><a href="https://researchers.adelaide.edu.au/profile/sourav.garg">Sourav Garg</a></h2>
-        <p>Research Fellow<br>Uni. Adelaide</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/stephen.jpeg" class="image">
-        <h2><a href="https://research.csiro.au/mlai-fsp/our-people/our-postdocs/">Stephen Hausler</a></h2>
-        <p>Research Scientist<br>CSIRO</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/stephanie.jpg" class="image">
-        <h2><a href="https://www.oru.se/english/employee/stephanie_lowry">Stephanie Lowry</a></h2>
-        <p>Assoc. Sr. Lecturer<br>Orebro University</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/michael.jpg" class="image">
-        <h2><a href="https://www.qut.edu.au/research/michael-milford">Michael Milford</a></h2>
-        <p>Professor<br>QUT</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/amir.jpg" class="image">
-        <h2><a href="https://www.linkedin.com/in/amir-patel/">Amir Patel</a></h2>
-        <p>Assoc. Prof.<br>Uni. Cape Town</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/sebastian.jpg" class="image">
-        <h2><a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/">Sebastian Scherer</a></h2>
-        <p>Assoc. Prof.<br>CMU</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/olga.jpg" class="image">
-        <h2><a href="https://www.microsoft.com/en-us/research/people/olgavysotska/">Olga Vysotska</a></h2>
-        <p>Research Scientist<br>Microsoft</p>
-    </div>
-    <div class="card">
-        <img src="assets/img/peng.png" class="image">
-        <h2><a href="https://maxtomcmu.github.io/">Peng Yin</a></h2>
-        <p>Assis. Prof.<br>CityU Hong Kong</p>
-    </div>
-</div>
-
-
-## Organizations and Companies
-
-<table class='myTable'>
-  <tr style="border: hidden">
-    <td style="border: hidden"><img src="assets/img/logo-qcr.jpg" width="200"/></td>
-    <td style="border: hidden"><img src="assets/img/logo-aiml.png" width="200"/></td>
-    <td style="border: hidden"><img src="assets/img/logo-microsoft.png" width="200"/></td>
-  </tr>
-  <tr style="border: hidden">
-    <td style="border: hidden"><img src="assets/img/logo-mit.png" width="200"/></td>
-    <td style="border: hidden"><img src="assets/img/logo-ethz.png" width="200"/></td>
-    <td style="border: hidden"><img src="assets/img/logo-capetown.jpg" width="200"/></td>
-  </tr>
-  <tr style="border: hidden">
-    <td style="border: hidden"><img src="assets/img/logo-cmu.png" width="200"/></td>
-    <td style="border: hidden"><img src="assets/img/logo-nvidia.png" width="200"/></td>
-    <td style="border: hidden"><img src="assets/img/logo-orebro.png" width="200"/></td>
-  </tr>
-</table>
+<p float="left">
+  <img src="assets/img/organizers.jpg" width="600px" />   
+</p>
