@@ -37,5 +37,5 @@ Tentative:
 ## Organizers
 
 <p float="left">
-  <img src="assets/img/organizers.jpg" width="600px" />   
+  <img src="assets/img/organizers.jpg" width="100%" />   
 </p>
