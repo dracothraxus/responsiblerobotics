@@ -1,2 +1,2 @@
-# VPR Workshop
-This is a VPR workshop
+# Responsible Robotics
+This is a Responsible Robotics workshop
