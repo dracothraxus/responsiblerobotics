@@ -25,7 +25,7 @@ Tentative:
   <img src="assets/img/program.jpg" width="100%" />   
 </p>
 
-## Invited Speakers and Panelists
+## Speakers
 
 <p float="left">
   <img src="assets/img/speakers.jpg" width="100%" />   
