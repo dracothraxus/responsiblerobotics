@@ -19,75 +19,14 @@ The flow of the event will encourage the participants to learn, ideate and conce
 
 #### Format
 
-We invite you to submit high-quality research either as a 2-page extended abstract or a 4-page short paper. Page counts exclude references (i.e., 2 + n and 4 + n). You are encouraged to use IROS's suggested Latex [format](http://ras.papercept.net/conferences/support/tex.php) and upload a PDF (see below). The review process will be single blind, that is, the authors' names are not required to be anonymized, aligned with IROS paper submissions. We encourae submissions of work-in-progress and work that is not yet published.
-
-Accepted papers will be presented as posters, with a selected few in the spotlight lightning session.
-
-#### Submission Process
-Please upload your paper through [OpenReview](https://openreview.net/group?id=IEEE.org/2023/IROS/Workshop/Localization). For extended abstracts, you can write N/A in the abstract field when creating a submission on OpenReview. Please use the TLDR field in the submission to indicate whether you are submitting "new work" or it is an "abridged version of a parallel/accepted submission". These papers will be publicly accessible through the workshop webpage in a non-archival format, thus allowing future submission to archival venues. At least one author must be registered to attend IROS 2023 workshops to present their work (see [registration](https://ieee-iros.org/registration-travel/)).
-
-#### Important Dates (Papers)
-
-[Due 23:59 UTC-0]
-
-| Event                              | Date        |
-|--------------------------------|-------------|
-| Paper Submission Open           | 28 Jun 2023 |
-| Paper Submission Due           | 24 Aug 2023 |
-| Reviews Out                    | 08 Sep 2023 |
-| Camera-Ready Due               | 20 Sep 2023 |
-| Workshop Day                   | 01 Oct 2023 |
-
-## Competition
-From decades, place recognition has been applied to a range of localization and navigation tasks, but only a few methods have been proposed for large scale map assembling. On the other hand, with the development of autonomous driving, last mile delivery and multi agent cooperation, there is a huge demand for efficient and accurate large scale, crowd-sourced map updating. In this competition, General Place Recognition (GPR) for Autonomous Map Assembling, we provide a comprehensive evaluation platform of large scale LiDAR/IMU datasets,  repeatedly collected at different times in a variety of environments (city/park/indoor), with varying overlaps. The target is to assemble the joint large scale map based mainly on the place recognition ability without any GPS assistance.
-
-We invite you to participate in the [competition](https://metaslam.github.io/competitions/iros2023/) led by Peng Yin (CityU HK) and Sebastian Scherer (CMU). The winners will have the opportunity to present their work at this workshop. The challenge timeline is as below:
-
-[Due 23:59 UTC-0]
-
-| Event                              | Date        |
-|--------------------------------|-------------|
-| Release Initial Dataset & Eval Tools           | 01 Aug 2023 |
-| Release Final Competition Set           | 15 Sep 2023 |
-| Submission Close                    | 24 Sep 2023 |
-| Winners Notified                   | 25 Sep 2023 |
-| Winners Presentations                   | 01 Oct 2023 |
-
-## Prizes and Awards
-
-The workshop will provide substantial prizes in the following categories:
-
-- Best Overall Presentation Award, sponsored by Nvidia:
-    - 1 Jetson Orin + RTX 4090 GPU and
-    - Jetson Nano to each co-author to a max of 5 authors.
-- USD 500 - Runner-up Paper Presentation Award, given to the student presenter at the lightning session.
-- USD 500 - Runner-up Poster Presentation Award, given to the student presenter at the poster sessions.
-- USD 200 - Most engaging speaker amongst our invited speakers.
-- USD 200 - Most active participant, actively engaging throughout the workshop event.
-
-## Support for Under-Represented Researchers
-
-We aim to provide opportunities for all researchers to be able to attend and foster further research in this area. We are proposing this scholarship program for researchers from under-represented geographic regions and demographics, totaling USD 3,500, which they can use for:
-
-- funding IROS 2023 workshop registration fees to enable attendance at this workshop
-- travel grants providing partial or full support for travel to attend the physical conference
-- hardware support including GPUs
-- software license support to help with conducting research in this area
-
-Please use this [form](https://forms.office.com/r/gY4wx3G63U) to apply for this support by **20 Aug 2023 (23:59 UTC-0)** (You will be informed of the outcome by 24 Aug 2023). Due to limited capacity, we cannot guarantee supporting everyone, but we encourage you to apply as it will only take a few minutes.
-
-<p float="left">
-  <img src="assets/img/worldmap.jpg" width="600px" />   
-</p>
 
 ## Schedule
 
 Tentative:
 
 <p float="left">
-  <img src="assets/img/vpr-workshop-schedule.jpg" width="600px" />   
+  <img src="assets/img/program.jpg" width="600px" />   
 </p>
-
 
 ## Invited Speakers
 
