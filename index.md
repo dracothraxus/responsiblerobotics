@@ -25,12 +25,14 @@ The flow of the event will encourage the participants to learn, ideate and conce
 Tentative:
 
 <p float="left">
-  <img src="assets/img/program.jpg" width="600px" />   
+  <img src="assets/img/program.jpg" width="100%" />   
 </p>
 
 ## Invited Speakers and Panelists
 
-
+<p float="left">
+  <img src="assets/img/speakers.jpg" width="100%" />   
+</p>
 
 ## Organizers
 
