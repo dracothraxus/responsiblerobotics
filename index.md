@@ -17,9 +17,6 @@ The format of the workshop comprises four sessions. We will start with a tutoria
 
 The flow of the event will encourage the participants to learn, ideate and conceptualize throughout. There will be multiple Q&A instances during the tutorial, invited talks and panel discussion, guided by moderators. Questions will be collected digitally before and during the event. An online chat will be made available to continue with offline discussions.
 
-#### Format
-
-
 ## Schedule
 
 Tentative:
